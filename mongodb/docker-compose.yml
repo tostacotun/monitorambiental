@@ -1,0 +1,15 @@
+services:
+  mongazo:
+    image: mongo:6.0.2-focal
+    container_name: mongoambiental
+    command: mongod --auth
+    restart: always 
+    volumes:
+      - ./data:/data/db
+      - ./init-mongo.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+    ports:
+      - "27017:27017" 
+    environment:
+      - MONGO_INITDB_DATABASE=monitor
+      - MONGO_INITDB_ROOT_USERNAME=rootuser
+      - MONGO_INITDB_ROOT_PASSWORD=rootpass
