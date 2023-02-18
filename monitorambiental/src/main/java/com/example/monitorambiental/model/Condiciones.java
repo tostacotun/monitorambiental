@@ -9,7 +9,7 @@ import java.util.Date;
 
 
 @Data
-@Document
+@Document(collection = "condiciones")
 public class Condiciones {
     @Id
     private String id;

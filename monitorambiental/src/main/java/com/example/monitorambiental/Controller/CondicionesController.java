@@ -7,7 +7,10 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+
+import java.util.Date;
 import java.util.List;
+
 
 @RestController
 @CrossOrigin("*")
@@ -51,4 +54,8 @@ public class CondicionesController {
     public Condiciones consultarporid(@PathVariable String id){
         return condicionesService.findById(id);
     }
+
+    @GetMapping("/filtrar")
+    public List<Condiciones> filtrar(@RequestParam String tiempo_inicial, @RequestParam String tiempo_final){return condicionesService.findByfiltro(tiempo_inicial,tiempo_final);}
+
 }

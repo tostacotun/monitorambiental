@@ -1,0 +1,4501 @@
+[{
+  "_id": {
+    "$oid": "63e438e451611e06fb1e2358"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675883150000"
+    }
+  },
+  "temperatura": 19.5,
+  "humedad": 80,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e43b4151611e06fb1e2359"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675883756000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 76.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e43d9f51611e06fb1e235a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675884361000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 76.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e43ffc51611e06fb1e235b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675884967000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 77.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4425a51611e06fb1e235c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675885572000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 73.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e444b751611e06fb1e235d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675886178000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 71.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4471551611e06fb1e235e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675886784000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 71.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4497351611e06fb1e235f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675887389000"
+    }
+  },
+  "temperatura": 20.7,
+  "humedad": 72.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e44bd051611e06fb1e2360"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675887995000"
+    }
+  },
+  "temperatura": 20.6,
+  "humedad": 72.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e44e2e51611e06fb1e2361"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675888600000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 72.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4508b51611e06fb1e2362"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675889206000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 72.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e452e951611e06fb1e2363"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675889812000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 71.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4554751611e06fb1e2364"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675890417000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 70.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e457a451611e06fb1e2365"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675891023000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 69.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e45a0251611e06fb1e2366"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675891628000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 69.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e45c6051611e06fb1e2367"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675892234000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 69.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e45ebd51611e06fb1e2368"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675892840000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 70.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4611b51611e06fb1e2369"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675893445000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 70.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4637851611e06fb1e236a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675894051000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 71.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e465d651611e06fb1e236b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675894656000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 71.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4683451611e06fb1e236c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675895262000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 71.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e46a9151611e06fb1e236d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675895868000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 71.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e46cef51611e06fb1e236e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675896473000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 71.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e46f4c51611e06fb1e236f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675897079000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 71.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e471aa51611e06fb1e2370"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675897684000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 71.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4740851611e06fb1e2371"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675898290000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 71.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4766551611e06fb1e2372"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675898896000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 71.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e478c351611e06fb1e2373"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675899501000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 71.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e47b2051611e06fb1e2374"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675900107000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 71.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e47d7e51611e06fb1e2375"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675900712000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 71.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e47fdc51611e06fb1e2376"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675901318000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 71.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4823951611e06fb1e2377"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675901924000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 71.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4849751611e06fb1e2378"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675902529000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 71.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e486f551611e06fb1e2379"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675903135000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 71.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4895251611e06fb1e237a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675903741000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 71,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e48bb051611e06fb1e237b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675904346000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 70.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e48e0e51611e06fb1e237c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675904952000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 71.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4906b51611e06fb1e237d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675905558000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 71.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e492c951611e06fb1e237e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675906163000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 70.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4952651611e06fb1e237f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675906769000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 70.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4978451611e06fb1e2380"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675907374000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 70.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e499e251611e06fb1e2381"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675907980000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 70.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e49c3f51611e06fb1e2382"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675908586000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 70.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e49e9d51611e06fb1e2383"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675909191000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 70.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4a0fa51611e06fb1e2384"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675909797000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 70.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4a35851611e06fb1e2385"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675910402000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 70.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4a5b751611e06fb1e2386"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675911008000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 70.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4a81451611e06fb1e2387"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675911615000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 70.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4aa7251611e06fb1e2388"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675912220000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 70.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4accf51611e06fb1e2389"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675912826000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 70.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4af2d51611e06fb1e238a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675913432000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 70.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4b18b51611e06fb1e238b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675914037000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 70.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4b3e851611e06fb1e238c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675914643000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 70.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4b64651611e06fb1e238d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675915248000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 70.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4b8a351611e06fb1e238e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675915854000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 70.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4bb0151611e06fb1e238f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675916459000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 70.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4bd5f51611e06fb1e2390"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675917065000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 70.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4bfbc51611e06fb1e2391"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675917671000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 70.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4c21a51611e06fb1e2392"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675918276000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 71.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4c47751611e06fb1e2393"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675918882000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 71.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4c6d551611e06fb1e2394"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675919487000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 70.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4c93351611e06fb1e2395"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675920093000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 70.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4cb9051611e06fb1e2396"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675920699000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 70.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4cdee51611e06fb1e2397"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675921304000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 70.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4d04b51611e06fb1e2398"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675921910000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 70.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4d2a951611e06fb1e2399"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675922515000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 70.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4d50751611e06fb1e239a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675923121000"
+    }
+  },
+  "temperatura": 19.6,
+  "humedad": 70.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4d76451611e06fb1e239b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675923727000"
+    }
+  },
+  "temperatura": 19.6,
+  "humedad": 71.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4d9c251611e06fb1e239c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675924332000"
+    }
+  },
+  "temperatura": 19.6,
+  "humedad": 71.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4dc1f51611e06fb1e239d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675924938000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 70.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4de7d51611e06fb1e239e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675925543000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 70.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4e0db51611e06fb1e239f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675926149000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 70.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4e33851611e06fb1e23a0"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675926755000"
+    }
+  },
+  "temperatura": 19.1,
+  "humedad": 72.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4e59651611e06fb1e23a1"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675927360000"
+    }
+  },
+  "temperatura": 18.7,
+  "humedad": 73.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4e7f351611e06fb1e23a2"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675927966000"
+    }
+  },
+  "temperatura": 18.5,
+  "humedad": 73.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4ea5151611e06fb1e23a3"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675928571000"
+    }
+  },
+  "temperatura": 18.4,
+  "humedad": 73.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4ecaf51611e06fb1e23a4"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675929177000"
+    }
+  },
+  "temperatura": 18.3,
+  "humedad": 73.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4ef0c51611e06fb1e23a5"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675929783000"
+    }
+  },
+  "temperatura": 18.4,
+  "humedad": 73.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4f16a51611e06fb1e23a6"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675930388000"
+    }
+  },
+  "temperatura": 18.8,
+  "humedad": 72.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4f3c751611e06fb1e23a7"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675930994000"
+    }
+  },
+  "temperatura": 19.2,
+  "humedad": 71.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4f62551611e06fb1e23a8"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675931599000"
+    }
+  },
+  "temperatura": 18.5,
+  "humedad": 72.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4f88351611e06fb1e23a9"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675932205000"
+    }
+  },
+  "temperatura": 18.5,
+  "humedad": 72.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4fae051611e06fb1e23aa"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675932811000"
+    }
+  },
+  "temperatura": 18.4,
+  "humedad": 73.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4fd3e51611e06fb1e23ab"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675933416000"
+    }
+  },
+  "temperatura": 18.4,
+  "humedad": 72.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e4ff9b51611e06fb1e23ac"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675934022000"
+    }
+  },
+  "temperatura": 18.6,
+  "humedad": 74.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e501f951611e06fb1e23ad"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675934627000"
+    }
+  },
+  "temperatura": 18.8,
+  "humedad": 73.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5045751611e06fb1e23ae"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675935233000"
+    }
+  },
+  "temperatura": 18.6,
+  "humedad": 73,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e506b451611e06fb1e23af"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675935839000"
+    }
+  },
+  "temperatura": 18.7,
+  "humedad": 71.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5091251611e06fb1e23b0"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675936444000"
+    }
+  },
+  "temperatura": 18.7,
+  "humedad": 71.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e50b6f51611e06fb1e23b1"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675937050000"
+    }
+  },
+  "temperatura": 18.8,
+  "humedad": 71.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e50dcd51611e06fb1e23b2"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675937655000"
+    }
+  },
+  "temperatura": 18.8,
+  "humedad": 71,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5102b51611e06fb1e23b3"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675938261000"
+    }
+  },
+  "temperatura": 18.7,
+  "humedad": 70.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5128851611e06fb1e23b4"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675938867000"
+    }
+  },
+  "temperatura": 18.8,
+  "humedad": 70.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e514e651611e06fb1e23b5"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675939472000"
+    }
+  },
+  "temperatura": 18.9,
+  "humedad": 70.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5174351611e06fb1e23b6"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675940078000"
+    }
+  },
+  "temperatura": 19,
+  "humedad": 69.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e519a151611e06fb1e23b7"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675940683000"
+    }
+  },
+  "temperatura": 19,
+  "humedad": 69.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e51bff51611e06fb1e23b8"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675941289000"
+    }
+  },
+  "temperatura": 19.1,
+  "humedad": 69.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e51e5c51611e06fb1e23b9"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675941895000"
+    }
+  },
+  "temperatura": 19.2,
+  "humedad": 69,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e520ba51611e06fb1e23ba"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675942500000"
+    }
+  },
+  "temperatura": 19.2,
+  "humedad": 69.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5231751611e06fb1e23bb"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675943106000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 68.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5257551611e06fb1e23bc"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675943711000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 69.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e527d351611e06fb1e23bd"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675944317000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 70.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e52a3051611e06fb1e23be"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675944923000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 73.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e52c8e51611e06fb1e23bf"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675945528000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 78,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e52eeb51611e06fb1e23c0"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675946134000"
+    }
+  },
+  "temperatura": 20.7,
+  "humedad": 87.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5314951611e06fb1e23c1"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675946739000"
+    }
+  },
+  "temperatura": 20.7,
+  "humedad": 87.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e533a751611e06fb1e23c2"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675947345000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 84.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5360451611e06fb1e23c3"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675947951000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 82.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5386251611e06fb1e23c4"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675948556000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 80.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e53ac051611e06fb1e23c5"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675949162000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 79.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e53d1d51611e06fb1e23c6"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675949768000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 77.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e53f7b51611e06fb1e23c7"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675950373000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 77.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e541d951611e06fb1e23c8"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675950979000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 76.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5443651611e06fb1e23c9"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675951585000"
+    }
+  },
+  "temperatura": 20.7,
+  "humedad": 76.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5469451611e06fb1e23ca"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675952190000"
+    }
+  },
+  "temperatura": 20.7,
+  "humedad": 75.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e548f151611e06fb1e23cb"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675952796000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 75.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e54b4f51611e06fb1e23cc"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675953401000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 75.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e54dad51611e06fb1e23cd"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675954007000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 75,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5500b51611e06fb1e23ce"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675954613000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 74.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5526851611e06fb1e23cf"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675955219000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 74.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e554c651611e06fb1e23d0"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675955824000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 74.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5572451611e06fb1e23d1"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675956430000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 74,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5598151611e06fb1e23d2"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675957036000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 73.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e55bdf51611e06fb1e23d3"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675957641000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 74,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e55e3c51611e06fb1e23d4"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675958247000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 74.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5609a51611e06fb1e23d5"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675958852000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 74.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e562f851611e06fb1e23d6"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675959458000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 74.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5655551611e06fb1e23d7"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675960064000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 74.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e567b351611e06fb1e23d8"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675960669000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 74.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e56a1051611e06fb1e23d9"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675961275000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 74.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e56c7051611e06fb1e23da"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675961880000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 72.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e56ecd51611e06fb1e23db"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675962488000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 71.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5712b51611e06fb1e23dc"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675963093000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 72.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5738851611e06fb1e23dd"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675963699000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 71.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e575e651611e06fb1e23de"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675964304000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 68.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5784451611e06fb1e23df"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675964910000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 69.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e57aa151611e06fb1e23e0"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675965516000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 69.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e57cff51611e06fb1e23e1"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675966121000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 70.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e57f5c51611e06fb1e23e2"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675966727000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 71.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e581ba51611e06fb1e23e3"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675967332000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 73.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5841851611e06fb1e23e4"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675967938000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 71.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5867551611e06fb1e23e5"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675968544000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 73.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e588d351611e06fb1e23e6"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675969149000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 80.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e58b3051611e06fb1e23e7"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675969755000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 75.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e58d8e51611e06fb1e23e8"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675970360000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 75.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e58fec51611e06fb1e23e9"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675970966000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 76,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5924951611e06fb1e23ea"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675971572000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 74.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e594a751611e06fb1e23eb"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675972177000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 72.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5970451611e06fb1e23ec"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675972783000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 71.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5996251611e06fb1e23ed"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675973388000"
+    }
+  },
+  "temperatura": 20.7,
+  "humedad": 71,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e59bc051611e06fb1e23ee"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675973994000"
+    }
+  },
+  "temperatura": 20.7,
+  "humedad": 70.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e59e1d51611e06fb1e23ef"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675974600000"
+    }
+  },
+  "temperatura": 21,
+  "humedad": 71.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5a07b51611e06fb1e23f0"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675975205000"
+    }
+  },
+  "temperatura": 21,
+  "humedad": 72.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5a2d851611e06fb1e23f1"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675975811000"
+    }
+  },
+  "temperatura": 20.9,
+  "humedad": 72.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5a53651611e06fb1e23f2"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675976416000"
+    }
+  },
+  "temperatura": 20.9,
+  "humedad": 73.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5a79451611e06fb1e23f3"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675977022000"
+    }
+  },
+  "temperatura": 20.8,
+  "humedad": 72.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5a9f151611e06fb1e23f4"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675977628000"
+    }
+  },
+  "temperatura": 20.9,
+  "humedad": 72.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5ac4f51611e06fb1e23f5"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675978233000"
+    }
+  },
+  "temperatura": 20.9,
+  "humedad": 73,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5aeac51611e06fb1e23f6"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675978839000"
+    }
+  },
+  "temperatura": 20.9,
+  "humedad": 72,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5b10a51611e06fb1e23f7"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675979444000"
+    }
+  },
+  "temperatura": 20.9,
+  "humedad": 72,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5b36851611e06fb1e23f8"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675980050000"
+    }
+  },
+  "temperatura": 20.9,
+  "humedad": 72,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5b5c551611e06fb1e23f9"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675980656000"
+    }
+  },
+  "temperatura": 20.8,
+  "humedad": 72.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5b82351611e06fb1e23fa"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675981261000"
+    }
+  },
+  "temperatura": 20.7,
+  "humedad": 73.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5ba8051611e06fb1e23fb"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675981867000"
+    }
+  },
+  "temperatura": 20.7,
+  "humedad": 72.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5bcde51611e06fb1e23fc"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675982472000"
+    }
+  },
+  "temperatura": 20.6,
+  "humedad": 72.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5bf3c51611e06fb1e23fd"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675983078000"
+    }
+  },
+  "temperatura": 20.7,
+  "humedad": 72,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5c19a51611e06fb1e23fe"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675983684000"
+    }
+  },
+  "temperatura": 20.6,
+  "humedad": 72,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5c3f751611e06fb1e23ff"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675984290000"
+    }
+  },
+  "temperatura": 20.6,
+  "humedad": 71.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5c65551611e06fb1e2400"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675984895000"
+    }
+  },
+  "temperatura": 20.6,
+  "humedad": 71.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5c8b251611e06fb1e2401"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675985501000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 71.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5cb1051611e06fb1e2402"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675986106000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 72.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5cd6e51611e06fb1e2403"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675986712000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 72.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5cfcb51611e06fb1e2404"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675987318000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 72,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5d22951611e06fb1e2405"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675987923000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 71.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5d48651611e06fb1e2406"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675988529000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 71.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5d6e451611e06fb1e2407"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675989134000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 71.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5d94251611e06fb1e2408"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675989740000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 71.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5dba151611e06fb1e2409"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675990346000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 70.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5ddfe51611e06fb1e240a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675990953000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 71.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5e05c51611e06fb1e240b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675991558000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 70.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5e2ba51611e06fb1e240c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675992164000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 70.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5e51751611e06fb1e240d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675992770000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 71,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5e77551611e06fb1e240e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675993375000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 70.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5e9d251611e06fb1e240f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675993981000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 70.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5ec3051611e06fb1e2410"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675994586000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 69.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5ee8e51611e06fb1e2411"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675995192000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 69.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5f0eb51611e06fb1e2412"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675995798000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 69.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5f34951611e06fb1e2413"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675996403000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 69.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5f5a651611e06fb1e2414"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675997009000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 69,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5f80451611e06fb1e2415"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675997614000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 68.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5fa6251611e06fb1e2416"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675998220000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 69,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5fcbf51611e06fb1e2417"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675998826000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 69.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e5ff1d51611e06fb1e2418"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1675999431000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 68.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6017a51611e06fb1e2419"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676000037000"
+    }
+  },
+  "temperatura": 19.6,
+  "humedad": 68.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e603d851611e06fb1e241a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676000642000"
+    }
+  },
+  "temperatura": 19.5,
+  "humedad": 68.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6063651611e06fb1e241b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676001248000"
+    }
+  },
+  "temperatura": 19.5,
+  "humedad": 67.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6089351611e06fb1e241c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676001854000"
+    }
+  },
+  "temperatura": 19.4,
+  "humedad": 67.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e60af151611e06fb1e241d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676002459000"
+    }
+  },
+  "temperatura": 19.4,
+  "humedad": 67.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e60d4e51611e06fb1e241e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676003065000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 67.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e60fac51611e06fb1e241f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676003670000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 68,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6120a51611e06fb1e2420"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676004276000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 67.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6146751611e06fb1e2421"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676004882000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 66.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e616c551611e06fb1e2422"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676005487000"
+    }
+  },
+  "temperatura": 19.2,
+  "humedad": 66.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6192251611e06fb1e2423"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676006093000"
+    }
+  },
+  "temperatura": 19.2,
+  "humedad": 67.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e61b8051611e06fb1e2424"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676006698000"
+    }
+  },
+  "temperatura": 19.1,
+  "humedad": 66.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e61dde51611e06fb1e2425"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676007304000"
+    }
+  },
+  "temperatura": 19,
+  "humedad": 66.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6203b51611e06fb1e2426"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676007910000"
+    }
+  },
+  "temperatura": 18.9,
+  "humedad": 67,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6229951611e06fb1e2427"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676008515000"
+    }
+  },
+  "temperatura": 18.9,
+  "humedad": 67,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e624f651611e06fb1e2428"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676009121000"
+    }
+  },
+  "temperatura": 18.8,
+  "humedad": 67.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6275451611e06fb1e2429"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676009726000"
+    }
+  },
+  "temperatura": 18.8,
+  "humedad": 66.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e629b251611e06fb1e242a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676010332000"
+    }
+  },
+  "temperatura": 18.7,
+  "humedad": 66.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e62c0f51611e06fb1e242b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676010938000"
+    }
+  },
+  "temperatura": 18.7,
+  "humedad": 66.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e62e6d51611e06fb1e242c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676011543000"
+    }
+  },
+  "temperatura": 18.7,
+  "humedad": 66.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e630cd51611e06fb1e242d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676012149000"
+    }
+  },
+  "temperatura": 18.7,
+  "humedad": 66.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6332b51611e06fb1e242e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676012757000"
+    }
+  },
+  "temperatura": 18.6,
+  "humedad": 63.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6358c51611e06fb1e242f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676013363000"
+    }
+  },
+  "temperatura": 17.7,
+  "humedad": 64.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e637e951611e06fb1e2430"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676013972000"
+    }
+  },
+  "temperatura": 17.6,
+  "humedad": 65.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e63a4751611e06fb1e2431"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676014577000"
+    }
+  },
+  "temperatura": 17.5,
+  "humedad": 66.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e63ca551611e06fb1e2432"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676015183000"
+    }
+  },
+  "temperatura": 17.5,
+  "humedad": 67,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e63f0251611e06fb1e2433"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676015788000"
+    }
+  },
+  "temperatura": 17.5,
+  "humedad": 67,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6416051611e06fb1e2434"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676016394000"
+    }
+  },
+  "temperatura": 18.1,
+  "humedad": 67,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e643bd51611e06fb1e2435"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676017000000"
+    }
+  },
+  "temperatura": 18.7,
+  "humedad": 66.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6461b51611e06fb1e2436"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676017605000"
+    }
+  },
+  "temperatura": 17.7,
+  "humedad": 67.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6487951611e06fb1e2437"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676018211000"
+    }
+  },
+  "temperatura": 17.8,
+  "humedad": 68,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e64ad651611e06fb1e2438"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676018816000"
+    }
+  },
+  "temperatura": 17.8,
+  "humedad": 67.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e64d3451611e06fb1e2439"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676019422000"
+    }
+  },
+  "temperatura": 18,
+  "humedad": 67.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e64f9151611e06fb1e243a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676020028000"
+    }
+  },
+  "temperatura": 18.3,
+  "humedad": 70,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e651ef51611e06fb1e243b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676020633000"
+    }
+  },
+  "temperatura": 18.2,
+  "humedad": 70.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6544d51611e06fb1e243c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676021239000"
+    }
+  },
+  "temperatura": 18.3,
+  "humedad": 72.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e656aa51611e06fb1e243d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676021844000"
+    }
+  },
+  "temperatura": 18.4,
+  "humedad": 72.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6590851611e06fb1e243e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676022450000"
+    }
+  },
+  "temperatura": 18.2,
+  "humedad": 71.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e65b6551611e06fb1e243f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676023056000"
+    }
+  },
+  "temperatura": 18,
+  "humedad": 70.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e65dc351611e06fb1e2440"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676023661000"
+    }
+  },
+  "temperatura": 18.2,
+  "humedad": 69.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6602151611e06fb1e2441"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676024267000"
+    }
+  },
+  "temperatura": 18.1,
+  "humedad": 68.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6627e51611e06fb1e2442"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676024872000"
+    }
+  },
+  "temperatura": 18.2,
+  "humedad": 67.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e664dc51611e06fb1e2443"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676025478000"
+    }
+  },
+  "temperatura": 18.3,
+  "humedad": 66.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6673951611e06fb1e2444"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676026084000"
+    }
+  },
+  "temperatura": 18.4,
+  "humedad": 66.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6699751611e06fb1e2445"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676026689000"
+    }
+  },
+  "temperatura": 18.5,
+  "humedad": 66.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e66bf551611e06fb1e2446"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676027295000"
+    }
+  },
+  "temperatura": 18.5,
+  "humedad": 67.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e66e5251611e06fb1e2447"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676027900000"
+    }
+  },
+  "temperatura": 18.6,
+  "humedad": 67,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e670b051611e06fb1e2448"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676028506000"
+    }
+  },
+  "temperatura": 18.7,
+  "humedad": 67.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6730d51611e06fb1e2449"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676029112000"
+    }
+  },
+  "temperatura": 18.8,
+  "humedad": 67.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6756b51611e06fb1e244a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676029717000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 68.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e677c951611e06fb1e244b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676030323000"
+    }
+  },
+  "temperatura": 19.4,
+  "humedad": 68.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e67a2751611e06fb1e244c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676030928000"
+    }
+  },
+  "temperatura": 19.5,
+  "humedad": 69.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e67c8451611e06fb1e244d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676031535000"
+    }
+  },
+  "temperatura": 19.5,
+  "humedad": 70.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e67ee251611e06fb1e244e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676032140000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 74.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6813f51611e06fb1e244f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676032746000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 80.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6839d51611e06fb1e2450"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676033351000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 79.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e685fb51611e06fb1e2451"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676033957000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 76.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6885851611e06fb1e2452"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676034563000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 74.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e68ab651611e06fb1e2453"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676035168000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 73.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e68d1351611e06fb1e2454"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676035774000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 71.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e68f7251611e06fb1e2455"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676036379000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 71.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e691cf51611e06fb1e2456"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676036985000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 71.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6942d51611e06fb1e2457"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676037591000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 71.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6968a51611e06fb1e2458"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676038197000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 71.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e698e851611e06fb1e2459"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676038802000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 72.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e69b4651611e06fb1e245a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676039408000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 73.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e69da451611e06fb1e245b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676040014000"
+    }
+  },
+  "temperatura": 20.6,
+  "humedad": 73.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6a00151611e06fb1e245c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676040620000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 73.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6a25f51611e06fb1e245d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676041225000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 73.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6a4bd51611e06fb1e245e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676041831000"
+    }
+  },
+  "temperatura": 20.6,
+  "humedad": 72.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6a71a51611e06fb1e245f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676042436000"
+    }
+  },
+  "temperatura": 20.7,
+  "humedad": 72.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6a97851611e06fb1e2460"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676043042000"
+    }
+  },
+  "temperatura": 20.6,
+  "humedad": 72.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6abd551611e06fb1e2461"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676043648000"
+    }
+  },
+  "temperatura": 20.6,
+  "humedad": 72.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6ae3351611e06fb1e2462"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676044253000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 72.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6b09051611e06fb1e2463"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676044859000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 72.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6b2ee51611e06fb1e2464"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676045464000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 72.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6b54c51611e06fb1e2465"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676046070000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 71.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6b7a951611e06fb1e2466"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676046676000"
+    }
+  },
+  "temperatura": 20.5,
+  "humedad": 71.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6ba0751611e06fb1e2467"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676047281000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 71.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6bc6551611e06fb1e2468"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676047887000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 71.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6bec251611e06fb1e2469"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676048492000"
+    }
+  },
+  "temperatura": 20.4,
+  "humedad": 71.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6c12051611e06fb1e246a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676049098000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 71.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6c37d51611e06fb1e246b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676049704000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 71.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6c5db51611e06fb1e246c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676050309000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 71.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6c83951611e06fb1e246d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676050915000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 71.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6ca9651611e06fb1e246e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676051520000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 71.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6ccf451611e06fb1e246f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676052126000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 72,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6cf5151611e06fb1e2470"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676052732000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 72.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6d1af51611e06fb1e2471"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676053337000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 72.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6d40d51611e06fb1e2472"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676053943000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 73.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6d66a51611e06fb1e2473"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676054548000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 72.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6d8c851611e06fb1e2474"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676055154000"
+    }
+  },
+  "temperatura": 19.6,
+  "humedad": 72.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6db2551611e06fb1e2475"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676055760000"
+    }
+  },
+  "temperatura": 19.5,
+  "humedad": 72.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6dd8351611e06fb1e2476"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676056365000"
+    }
+  },
+  "temperatura": 19.6,
+  "humedad": 73.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6dfe151611e06fb1e2477"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676056971000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 73,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6e23e51611e06fb1e2478"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676057576000"
+    }
+  },
+  "temperatura": 19.5,
+  "humedad": 73.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6e49c51611e06fb1e2479"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676058182000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 73.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6e6f951611e06fb1e247a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676058788000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 73.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6e95751611e06fb1e247b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676059393000"
+    }
+  },
+  "temperatura": 19.2,
+  "humedad": 73.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6ebb551611e06fb1e247c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676059999000"
+    }
+  },
+  "temperatura": 19.2,
+  "humedad": 73.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6ee1251611e06fb1e247d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676060604000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 73.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6f07051611e06fb1e247e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676061210000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 73,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6f2ce51611e06fb1e247f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676061816000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 73.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6f52b51611e06fb1e2480"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676062422000"
+    }
+  },
+  "temperatura": 20.3,
+  "humedad": 74.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6f78951611e06fb1e2481"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676063027000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 74.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6f9e751611e06fb1e2482"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676063633000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 74.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6fc4551611e06fb1e2483"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676064239000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 74,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e6fea251611e06fb1e2484"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676064845000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 73.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7010051611e06fb1e2485"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676065450000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 74.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7035e51611e06fb1e2486"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676066056000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 74.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e705bb51611e06fb1e2487"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676066661000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 74.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7081951611e06fb1e2488"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676067267000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 74.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e70a7651611e06fb1e2489"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676067873000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 74.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e70cd451611e06fb1e248a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676068478000"
+    }
+  },
+  "temperatura": 20.2,
+  "humedad": 73.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e70f3251611e06fb1e248b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676069084000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 74.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7118f51611e06fb1e248c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676069689000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 74.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e713ed51611e06fb1e248d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676070295000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 74,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7164a51611e06fb1e248e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676070901000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 74.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e718a851611e06fb1e248f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676071506000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 73.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e71b0651611e06fb1e2490"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676072112000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 74.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e71d6351611e06fb1e2491"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676072717000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 73.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e71fc151611e06fb1e2492"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676073323000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 74.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7221e51611e06fb1e2493"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676073929000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 74.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7247c51611e06fb1e2494"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676074534000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 74,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e726da51611e06fb1e2495"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676075140000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 74.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7293751611e06fb1e2496"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676075745000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 73.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e72b9551611e06fb1e2497"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676076351000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 74,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e72df251611e06fb1e2498"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676076957000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 74.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7305051611e06fb1e2499"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676077562000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 74.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e732ae51611e06fb1e249a"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676078168000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 74.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7350b51611e06fb1e249b"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676078773000"
+    }
+  },
+  "temperatura": 19.9,
+  "humedad": 74.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7376951611e06fb1e249c"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676079379000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 74.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e739c651611e06fb1e249d"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676079985000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 74.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e73c2451611e06fb1e249e"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676080590000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 74.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e73e8251611e06fb1e249f"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676081196000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 73.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e740df51611e06fb1e24a0"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676081801000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 73.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7433d51611e06fb1e24a1"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676082407000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 73.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7459a51611e06fb1e24a2"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676083013000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 73.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e747f851611e06fb1e24a3"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676083618000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 73.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e74a5651611e06fb1e24a4"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676084224000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 73.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e74cb351611e06fb1e24a5"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676084829000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 73.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e74f1151611e06fb1e24a6"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676085435000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 73.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7516e51611e06fb1e24a7"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676086041000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 73.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e753cc51611e06fb1e24a8"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676086646000"
+    }
+  },
+  "temperatura": 20,
+  "humedad": 72.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7562a51611e06fb1e24a9"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676087252000"
+    }
+  },
+  "temperatura": 20.1,
+  "humedad": 73.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7588851611e06fb1e24aa"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676087857000"
+    }
+  },
+  "temperatura": 19,
+  "humedad": 71.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e75ae551611e06fb1e24ab"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676088463000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 71.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e75d4351611e06fb1e24ac"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676089069000"
+    }
+  },
+  "temperatura": 19.7,
+  "humedad": 73,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e75fa051611e06fb1e24ad"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676089675000"
+    }
+  },
+  "temperatura": 19.8,
+  "humedad": 73.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e761fe51611e06fb1e24ae"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676090280000"
+    }
+  },
+  "temperatura": 19.5,
+  "humedad": 73.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7645c51611e06fb1e24af"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676090886000"
+    }
+  },
+  "temperatura": 19.4,
+  "humedad": 74.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e766b951611e06fb1e24b0"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676091491000"
+    }
+  },
+  "temperatura": 19.4,
+  "humedad": 74.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7691751611e06fb1e24b1"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676092097000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 74.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e76b7451611e06fb1e24b2"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676092703000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 74.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e76dd251611e06fb1e24b3"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676093308000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 74.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7703051611e06fb1e24b4"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676093914000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 74.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7728d51611e06fb1e24b5"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676094519000"
+    }
+  },
+  "temperatura": 19.2,
+  "humedad": 74,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e774eb51611e06fb1e24b6"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676095125000"
+    }
+  },
+  "temperatura": 19.2,
+  "humedad": 74.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7774851611e06fb1e24b7"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676095731000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 74.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e779a751611e06fb1e24b8"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676096336000"
+    }
+  },
+  "temperatura": 19.4,
+  "humedad": 74.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e77c0451611e06fb1e24b9"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676096942000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 74.9,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e77e6251611e06fb1e24ba"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676097548000"
+    }
+  },
+  "temperatura": 19.2,
+  "humedad": 75.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e780bf51611e06fb1e24bb"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676098154000"
+    }
+  },
+  "temperatura": 19.2,
+  "humedad": 74.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7831d51611e06fb1e24bc"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676098759000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 74.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7857b51611e06fb1e24bd"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676099365000"
+    }
+  },
+  "temperatura": 18.3,
+  "humedad": 69.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e787d851611e06fb1e24be"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676099970000"
+    }
+  },
+  "temperatura": 18,
+  "humedad": 70.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e78a3651611e06fb1e24bf"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676100576000"
+    }
+  },
+  "temperatura": 18,
+  "humedad": 70.2,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e78c9351611e06fb1e24c0"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676101182000"
+    }
+  },
+  "temperatura": 18,
+  "humedad": 70.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e78ef151611e06fb1e24c1"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676101787000"
+    }
+  },
+  "temperatura": 18,
+  "humedad": 70,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7914f51611e06fb1e24c2"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676102393000"
+    }
+  },
+  "temperatura": 18.2,
+  "humedad": 69.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e793ac51611e06fb1e24c3"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676102998000"
+    }
+  },
+  "temperatura": 18.3,
+  "humedad": 69.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7960a51611e06fb1e24c4"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676103604000"
+    }
+  },
+  "temperatura": 18.4,
+  "humedad": 69,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7986751611e06fb1e24c5"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676104210000"
+    }
+  },
+  "temperatura": 18.4,
+  "humedad": 68.8,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e79ac551611e06fb1e24c6"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676104815000"
+    }
+  },
+  "temperatura": 18.5,
+  "humedad": 68.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e79d2351611e06fb1e24c7"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676105421000"
+    }
+  },
+  "temperatura": 18.7,
+  "humedad": 69.4,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e79f8051611e06fb1e24c8"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676106026000"
+    }
+  },
+  "temperatura": 19.1,
+  "humedad": 69.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7a1e751611e06fb1e24c9"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676106632000"
+    }
+  },
+  "temperatura": 18.8,
+  "humedad": 70.1,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7a44551611e06fb1e24ca"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676107247000"
+    }
+  },
+  "temperatura": 18.7,
+  "humedad": 69.7,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7a6a351611e06fb1e24cb"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676107853000"
+    }
+  },
+  "temperatura": 18.9,
+  "humedad": 69.5,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7a90051611e06fb1e24cc"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676108459000"
+    }
+  },
+  "temperatura": 19.1,
+  "humedad": 69.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7ab5e51611e06fb1e24cd"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676109064000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 69.6,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+},{
+  "_id": {
+    "$oid": "63e7adbc51611e06fb1e24ce"
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1676109670000"
+    }
+  },
+  "temperatura": 19.3,
+  "humedad": 69.3,
+  "_class": "com.example.monitorambiental.model.Condiciones"
+}]

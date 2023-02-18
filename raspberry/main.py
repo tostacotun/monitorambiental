@@ -67,7 +67,7 @@ def medir(objetodht):
         
 if (wifi.isconnected()):        
     print("connected")
-    url = "http://192.168.1.8:8080/Condiciones/subir"
+    url = "http://192.168.1.21:8080/Condiciones/subir"
     while True:
         
         fecha = formatofecha(time.localtime())
@@ -89,7 +89,7 @@ if (wifi.isconnected()):
             machine.reset()
     
         req.close()
-        time.sleep(30)
+        time.sleep(60*10)
     
 else:
     print("Time Out")

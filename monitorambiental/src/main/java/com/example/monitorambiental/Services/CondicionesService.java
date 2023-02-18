@@ -1,7 +1,10 @@
 package com.example.monitorambiental.Services;
 
 import com.example.monitorambiental.model.Condiciones;
+import org.springframework.web.bind.annotation.RequestParam;
 
+
+import java.util.Date;
 import java.util.List;
 
 public interface CondicionesService {
@@ -9,4 +12,6 @@ public interface CondicionesService {
     public void delete(String id);
     public Condiciones findById(String id);
     public List<Condiciones> findAll();
+    public List<Condiciones> findByfiltro(String tiempo_inicial, String tiempo_final);
+
 }
