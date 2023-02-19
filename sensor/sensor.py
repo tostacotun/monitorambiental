@@ -14,7 +14,7 @@ wifi.active(False)
 time.sleep(2)
 wifi.active(True)
 # conexicion
-wifi.connect('Familia Suarez Gomez','afcY2z1I9x')
+wifi.connect('WIFI_ESSID','WIFIPASS')
 
 
 global temperatura
@@ -81,7 +81,7 @@ def medir(objetodht):
 if (wifi.isconnected()):
     
     print("connected")
-    url = "http://192.168.1.21:8080/Condiciones/subir"
+    url = "http://ip.del.servidor:8080/Condiciones/subir"
     while True:
         print(time.localtime())
         fecha = formatofecha(time.localtime())
