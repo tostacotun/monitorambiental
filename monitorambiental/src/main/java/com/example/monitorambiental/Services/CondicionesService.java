@@ -1,10 +1,8 @@
 package com.example.monitorambiental.Services;
 
 import com.example.monitorambiental.model.Condiciones;
-import org.springframework.web.bind.annotation.RequestParam;
 
 
-import java.util.Date;
 import java.util.List;
 
 public interface CondicionesService {

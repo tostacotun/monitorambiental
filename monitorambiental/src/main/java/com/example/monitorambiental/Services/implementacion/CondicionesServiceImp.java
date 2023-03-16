@@ -41,6 +41,7 @@ public class CondicionesServiceImp  implements CondicionesService {
     @Override
     @Transactional(readOnly = true)
     public List<Condiciones> findAll(){return (List<Condiciones>) condicionesDao.findAll();}
+    /*consulta de los ultimos dias*/
     @Override
     @Transactional(readOnly = true)
     public List<Condiciones> findByfiltro(String tiempo_inicial, String tiempo_final){
@@ -57,9 +58,7 @@ public class CondicionesServiceImp  implements CondicionesService {
         resultado.forEach(documento -> {
             condiciones.add(conversor.read(Condiciones.class,documento));
         });
-
         return condiciones;
     }
-
 
 }
